@@ -5,7 +5,7 @@
 
 # Welcome to Python
 # Hashes (#) are used to comment text.
-# Any line with a hash in fornt of it will not run
+# Any line with a hash in front of it will not run
 
 
 # In[ ]:
